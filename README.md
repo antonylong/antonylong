@@ -30,21 +30,25 @@ Lazy notes
 </div>
 
 <h3 align="center">Future 🚀</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-</div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  </div>
 
 <h2 align="center">Interests</h2>
-<ul align="center">
-<li>Running</li>
-<li>Bouldering</li>
-<li>Genshin Impact</li>
-</ul>
+<div align="center">
+  <a href="https://www.strava.com/">Running</a> |
+  <a href="https://www.archclimbingwall.com/">Bouldering</a> |
+  <a href="https://www.komoot.com/discover/hiking-trails">Hiking</a> |
+  <a href="https://genshin.hoyoverse.com/en/">Genshin Impact</a> |
+  <a href="https://www.draughtslondon.com/">Board Games</a> |
+  <a href="https://www.crunchyroll.com/">Anime<a> |
+  <a href="https://www.viz.com/shonenjump">Manga<a>
+</div>
 <!--
 <br />
 <div align="center">
