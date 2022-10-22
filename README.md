@@ -1,11 +1,12 @@
 <!--
 Lazy notes
 
+<h2 align="center">Software engineer at Syndi Health 💚</h2>
+
 <img src="" />
 -->
 
 <h1 align="center">Hi, I'm Antony 👋</h1>
-<h2 align="center">Software engineer at Syndi Health 💚</h2>
 
 <h3 align="center">Tech Stack 💻</h3>
 <div align="center">
