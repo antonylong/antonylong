@@ -2,8 +2,9 @@
 Lazy notes
 
 <h2 align="center">Software engineer at Syndi Health 💚</h2>
-https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
-https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+
+Badges from => https://github.com/Ileriayo/markdown-badges
+
 <img src="" />
 -->
 
