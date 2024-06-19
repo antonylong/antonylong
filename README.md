@@ -41,7 +41,7 @@ Badges from => https://github.com/Ileriayo/markdown-badges
   <a href="https://www.strava.com/">Running</a> |
   <a href="https://www.archclimbingwall.com/">Bouldering</a> |
   <a href="https://www.alltrails.com/">Hiking</a> |
-  <a href="https://www.draughtslondon.com/">Board Games</a> |
+  <a href="https://thebrotherhoodgames.co.uk/">Board Games</a> |
   <a href="https://www.crunchyroll.com/">Anime<a> |
   <a href="https://www.viz.com/shonenjump">Manga<a>
 </div>
